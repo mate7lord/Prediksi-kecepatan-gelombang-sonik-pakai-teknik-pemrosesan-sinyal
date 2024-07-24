@@ -10,3 +10,4 @@ Ini akan dilakukan dalam 3 langkah:
 1. Prediksi log sonik menggunakan data log normal
 2. Melakukan Transformasi Wavelet pada data log
 3. Prediksi log sonik menggunakan data yang telah ditransformasi dan mengamati hasilnya.
+Saya tambahkan penjelasan di file colab
